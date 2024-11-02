@@ -1,4 +1,16 @@
-- 👋 Hi, I’m Abolfazl
-- 👀 I’m interested in datascintes , Ethical hack , ...
-- 📫 How to reach me on [twitter](https://twitter.com/Abbasi0Abolfazl) and [email](a.abbasi5775@gmail.com)
+# 👋 Hi there, I'm Abolfazl!
+
+Welcome to my GitHub profile! I'm a passionate programmer with a keen interest in:
+
+- 📊 **Data Science**
+- 🔍 **Ethical Hacking**
+- 📈 **Machine Learning**
+
+## 🌐 Connect with Me
+
+Feel free to reach out! You can find me on:
+
+- [Twitter](https://twitter.com/Abbasi0Abolfazl) 🐦
+- 📧 **Email:** a.abbasi5775@gmail.com
+
 
