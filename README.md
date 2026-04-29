@@ -69,32 +69,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/abbasi0abolfazl/forexfactory-scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasi0abolfazl&repo=forexfactory-scraper&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/abbasi0abolfazl/stock-market-pattern-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasi0abolfazl&repo=stock-market-pattern-detection&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/abbasi0abolfazl/business_analysis_agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasi0abolfazl&repo=business_analysis_agent&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/abbasi0abolfazl/ai-itinerary-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasi0abolfazl&repo=ai-itinerary-generator&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Abolfazl-red?style=for-the-badge" alt="Made with Love" />
 </div>
