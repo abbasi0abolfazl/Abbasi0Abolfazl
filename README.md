@@ -13,11 +13,11 @@
   <a href="https://x.com/Abbasi0Abolfazl">
     <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:a.abbasi5775@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:contact@abolfazlabbasi.com">
+    <img src="https://img.shields.io/badge/Email-contact%40abolfazlabbasi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/abbasi0abolfazl?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="https://abolfazlabbasi.com/">
+    <img src="https://img.shields.io/badge/Website-abolfazlabbasi.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
   </a>
 </div>
 
