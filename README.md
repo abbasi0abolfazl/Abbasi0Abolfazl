@@ -59,16 +59,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abbasi0abolfazl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasi0abolfazl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Abolfazl-red?style=for-the-badge" alt="Made with Love" />
 </div>
