@@ -1,68 +1,38 @@
-# 👋 Hi, I'm Abolfazl
+# Hi, I'm Abolfazl Abbasi
 
-<div align="center" style="max-width: 100%;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Quant+Developer+%26+AI+Specialist;Turning+Market+Data+into+Intelligence;Building+Automated+Trading+Systems;Open+Source+Enthusiast" alt="Typing SVG" style="max-width: 100%;" />
-</div>
+**AI Systems Engineer & Quant-oriented Python Developer**
 
-<br/>
+I build AI, data, and quantitative software systems with Python, with a focus on financial and data-intensive problems.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abbasi-abolfazl/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Abbasi0Abolfazl">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:contact@abolfazlabbasi.com">
-    <img src="https://img.shields.io/badge/Email-contact%40abolfazlabbasi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://abolfazlabbasi.com/">
-    <img src="https://img.shields.io/badge/Website-abolfazlabbasi.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
-  </a>
-</div>
+My current direction is to make my work easier to inspect: fewer claims, stronger technical evidence, reproducible evaluation, and clearer engineering decisions.
 
-<br/>
+## Selected proof of work
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abbasi0abolfazl&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <a href="https://github.com/abbasi0abolfazl?tab=followers">
-    <img src="https://img.shields.io/github/followers/abbasi0abolfazl?style=social" alt="Followers" />
-  </a>
-  <a href="https://github.com/abbasi0abolfazl?tab=stars">
-    <img src="https://img.shields.io/github/stars/abbasi0abolfazl?style=social" alt="Stars" />
-  </a>
-</div>
+| Project | What it demonstrates |
+| --- | --- |
+| [Iran Market Evidence Lab](https://github.com/abbasi0abolfazl/iran-market-evidence-lab) | Quant research infrastructure, evidence-first analysis, risk controls, backtesting discipline, and explicit limitations |
+| [ForexFactory Scraper](https://github.com/abbasi0abolfazl/forexfactory-scraper) | Python package design, financial-data tooling, configuration, testing, and reusable CLI/library structure |
 
----
+## Current focus
 
-## 🛠 Tech Stack & Tools
+- AI engineering and LLM/RAG systems
+- Quantitative and financial software
+- Market-data and research infrastructure
+- Python backend and data systems
+- Reproducible evaluation and technical documentation
 
-<div align="center">
+## Core tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+## Links
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Abolfazl-red?style=for-the-badge" alt="Made with Love" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=0" alt="Footer" />
-</div>
+- [Website](https://abolfazlabbasi.com/)
+- [LinkedIn](https://www.linkedin.com/in/abbasi-abolfazl/)
+- [X / Twitter](https://x.com/Abbasi0Abolfazl)
+- [Email](mailto:contact@abolfazlabbasi.com)
